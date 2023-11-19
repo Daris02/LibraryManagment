@@ -24,6 +24,6 @@ public class Main {
     //  System.out.println(testAuthor.deleAuthor(new Author("edd94a0b-ef79-48f4-b14b-3f14a1118689", "Alice", "M")));
 
     //  System.out.println(testBook.getBookById("fd84b946-9ed3-48c6-8672-1dada63d1ba3")); 
-        System.out.println(testBook.getAllBooks());
+        System.out.println("List of Books : \n" + testBook.getAllBooks());
     }
 }
